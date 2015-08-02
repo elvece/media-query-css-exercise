@@ -1,6 +1,6 @@
 ## Media Query Challenge
 
-***This repo contains my solution to the following exercise:***
+*This repo contains my solution to the following exercise in the style.css file:*
 
 #### The browser with the index.html and the style.css you have now looks like:
 ![](horizontal.png)
